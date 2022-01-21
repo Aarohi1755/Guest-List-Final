@@ -1,0 +1,31 @@
+h1{
+    margin-bottom: 30px;
+    color: purple;
+    text-decoration: underline;
+}
+input{
+  
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    background-color: rgb(131, 155, 235);
+    border: solid;
+    font-weight: bold;
+}
+button{
+    margin-bottom: 20px;
+    background-color: rgb(255, 145, 0);
+    font-weight: bold;
+}
+hr{
+    margin-bottom: 15px;
+}
+body{
+    background-color: rgb(243, 169, 227);
+}
+p{
+    font-family: bold;
+}
+#Search_name{
+    color: black;
+}
